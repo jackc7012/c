@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="twostackwithqueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stackwithmin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stackpop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="behandtree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="minaddtomakevalid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="removeduplicate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="makegood.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reverseparent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="public.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fieldsum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="nextgreaterelement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dailytemperatures.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="largestrectanglearea.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="trip.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="allPathsSourceTarget.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="permute.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="permuteUnique.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="letterCombinations.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="combinationSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="numIslands.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="maxAreaOfIsland.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shortestBridge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="openLock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ladderLength.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="totalNQueens.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="minEatingSpeed.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="slidingPuzzle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="generateParenthesis.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="minWindow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="numBusesToDestination.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="carPooling.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="subarraySum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="postman.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="findOrder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="carinfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="data_base.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="data_interface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="restoreIP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="trie.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="replacetrie.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="findMinArrowShots.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="minSubArrayLen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="equalSubstring.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="canConstruct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
