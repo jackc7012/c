@@ -29,7 +29,10 @@
 //#include "replacetrie.h"
 //#include "nextgreaterelement.h"
 //#include "minSubArrayLen.h"
-#include "equalSubstring.h"
+//#include "equalSubstring.h"
+//#include "canConstruct.h"
+//#include "lengthOfLongestSubstring.h"
+#include "longestOnes.h"
 
 int main()
 {
@@ -41,7 +44,7 @@ int main()
     ////std::string aa = c.getDbName();
     //std::vector<std::vector<std::string>> result = c.selectDbInfo(sql);
     Solution s;
-    int result = s.equalSubstring("abcd", "cdef", 3);
+     int result = s.longestOnes({1,1,1,0,0,0,1,1,1,1,0}, 2);
     system("pause");
     return 0;
 }

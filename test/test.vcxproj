@@ -72,6 +72,8 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
+    <OutDir>../bin</OutDir>
+    <IntDir>../bin</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -92,7 +94,8 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>SQLReader.lib</AdditionalDependencies>
+      <AdditionalDependencies>
+      </AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -148,6 +151,7 @@
     <ClInclude Include="canConstruct.h" />
     <ClInclude Include="carinfo.h" />
     <ClInclude Include="carPooling.h" />
+    <ClInclude Include="checkInclusion.h" />
     <ClInclude Include="combinationSum.h" />
     <ClInclude Include="dailytemperatures.h" />
     <ClInclude Include="data_base.h" />
@@ -159,7 +163,9 @@
     <ClInclude Include="generateParenthesis.h" />
     <ClInclude Include="ladderLength.h" />
     <ClInclude Include="largestrectanglearea.h" />
+    <ClInclude Include="lengthOfLongestSubstring.h" />
     <ClInclude Include="letterCombinations.h" />
+    <ClInclude Include="longestOnes.h" />
     <ClInclude Include="makegood.h" />
     <ClInclude Include="maxAreaOfIsland.h" />
     <ClInclude Include="minaddtomakevalid.h" />

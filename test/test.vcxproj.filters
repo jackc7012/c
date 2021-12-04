@@ -152,5 +152,14 @@
     <ClInclude Include="canConstruct.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="lengthOfLongestSubstring.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="longestOnes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="checkInclusion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
