@@ -125,12 +125,6 @@
     <ClInclude Include="carinfo.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="data_base.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="data_interface.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="restoreIP.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -159,6 +153,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="checkInclusion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="jump.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wiggleMaxLength.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -32,7 +32,9 @@
 //#include "equalSubstring.h"
 //#include "canConstruct.h"
 //#include "lengthOfLongestSubstring.h"
-#include "longestOnes.h"
+//#include "longestOnes.h"
+//#include "jump.h"
+#include "wiggleMaxLength.h"
 
 int main()
 {
@@ -44,7 +46,7 @@ int main()
     ////std::string aa = c.getDbName();
     //std::vector<std::vector<std::string>> result = c.selectDbInfo(sql);
     Solution s;
-     int result = s.longestOnes({1,1,1,0,0,0,1,1,1,1,0}, 2);
+    int result = s.wiggleMaxLength({3, 3, 3, 2, 5});
     system("pause");
     return 0;
 }
