@@ -35,7 +35,10 @@
 //#include "longestOnes.h"
 //#include "jump.h"
 //#include "wiggleMaxLength.h"
-#include "leastInterval.h"
+//#include "leastInterval.h"
+//#include "subarraySum.h"
+//#include "corpFlightBookings.h"
+#include "slowestKey.h"
 
 int main()
 {
@@ -47,7 +50,7 @@ int main()
     ////std::string aa = c.getDbName();
     //std::vector<std::vector<std::string>> result = c.selectDbInfo(sql);
     Solution s;
-    int result = s.leastInterval({'A', 'A', 'A', 'B', 'B', 'B'}, 2);
+    char result = s.slowestKey({1, 2}, "ba");
     system("pause");
     return 0;
 }

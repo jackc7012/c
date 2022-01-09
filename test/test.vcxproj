@@ -153,6 +153,7 @@
     <ClInclude Include="carPooling.h" />
     <ClInclude Include="checkInclusion.h" />
     <ClInclude Include="combinationSum.h" />
+    <ClInclude Include="corpFlightBookings.h" />
     <ClInclude Include="dailytemperatures.h" />
     <ClInclude Include="equalSubstring.h" />
     <ClInclude Include="fieldsum.h" />
@@ -169,6 +170,7 @@
     <ClInclude Include="longestPalindrome.h" />
     <ClInclude Include="makegood.h" />
     <ClInclude Include="maxAreaOfIsland.h" />
+    <ClInclude Include="maxIncreaseKeepingSkyline.h" />
     <ClInclude Include="minaddtomakevalid.h" />
     <ClInclude Include="minEatingSpeed.h" />
     <ClInclude Include="minSubArrayLen.h" />
@@ -187,9 +189,11 @@
     <ClInclude Include="reverseparent.h" />
     <ClInclude Include="shortestBridge.h" />
     <ClInclude Include="slidingPuzzle.h" />
+    <ClInclude Include="slowestKey.h" />
     <ClInclude Include="stackpop.h" />
     <ClInclude Include="stackwithmin.h" />
     <ClInclude Include="subarraySum.h" />
+    <ClInclude Include="TopVotedCandidate.h" />
     <ClInclude Include="totalNQueens.h" />
     <ClInclude Include="trie.h" />
     <ClInclude Include="trip.h" />

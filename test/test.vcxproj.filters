@@ -167,5 +167,17 @@
     <ClInclude Include="longestPalindrome.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="corpFlightBookings.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TopVotedCandidate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="maxIncreaseKeepingSkyline.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="slowestKey.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
