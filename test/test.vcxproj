@@ -160,7 +160,11 @@
     <ClInclude Include="findMinArrowShots.h" />
     <ClInclude Include="findOrder.h" />
     <ClInclude Include="generateParenthesis.h" />
+    <ClInclude Include="increasingTriplet.h" />
+    <ClInclude Include="isAdditiveNumber.h" />
+    <ClInclude Include="isEscapePossible.h" />
     <ClInclude Include="jump.h" />
+    <ClInclude Include="kSmallestPairs.h" />
     <ClInclude Include="ladderLength.h" />
     <ClInclude Include="largestrectanglearea.h" />
     <ClInclude Include="leastInterval.h" />

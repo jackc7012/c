@@ -179,5 +179,17 @@
     <ClInclude Include="slowestKey.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="isEscapePossible.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="isAdditiveNumber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="kSmallestPairs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="increasingTriplet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
