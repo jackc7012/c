@@ -191,5 +191,20 @@
     <ClInclude Include="increasingTriplet.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="StockPrice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reversePrefix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="numberOfSteps.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="uncommonFromSentences.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="numberOfWeakCharacters.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

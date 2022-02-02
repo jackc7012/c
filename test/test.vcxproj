@@ -180,6 +180,8 @@
     <ClInclude Include="minSubArrayLen.h" />
     <ClInclude Include="minWindow.h" />
     <ClInclude Include="nextgreaterelement.h" />
+    <ClInclude Include="numberOfSteps.h" />
+    <ClInclude Include="numberOfWeakCharacters.h" />
     <ClInclude Include="numBusesToDestination.h" />
     <ClInclude Include="numIslands.h" />
     <ClInclude Include="openLock.h" />
@@ -191,17 +193,20 @@
     <ClInclude Include="replacetrie.h" />
     <ClInclude Include="restoreIP.h" />
     <ClInclude Include="reverseparent.h" />
+    <ClInclude Include="reversePrefix.h" />
     <ClInclude Include="shortestBridge.h" />
     <ClInclude Include="slidingPuzzle.h" />
     <ClInclude Include="slowestKey.h" />
     <ClInclude Include="stackpop.h" />
     <ClInclude Include="stackwithmin.h" />
+    <ClInclude Include="StockPrice.h" />
     <ClInclude Include="subarraySum.h" />
     <ClInclude Include="TopVotedCandidate.h" />
     <ClInclude Include="totalNQueens.h" />
     <ClInclude Include="trie.h" />
     <ClInclude Include="trip.h" />
     <ClInclude Include="twostackwithqueue.h" />
+    <ClInclude Include="uncommonFromSentences.h" />
     <ClInclude Include="wiggleMaxLength.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
