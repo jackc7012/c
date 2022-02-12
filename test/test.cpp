@@ -46,7 +46,9 @@
 //#include "reversePrefix.h"
 //#include "numberOfSteps.h"
 //#include "uncommonFromSentences.h"
-#include "numberOfWeakCharacters.h"
+//#include "numberOfWeakCharacters.h"
+//#include "closedIsland.h"
+#include "numDistinctIslands.h"
 
 int main()
 {
@@ -58,8 +60,8 @@ int main()
     ////std::string aa = c.getDbName();
     //std::vector<std::vector<std::string>> result = c.selectDbInfo(sql);
     Solution s;
-    vector<vector<int>> a({{2, 2}, {3, 3}});
-    int result = s.numberOfWeakCharacters(a);
+    vector<vector<int>> a({{1,1,0,0,0}, {1,1,0,0,0}, {0,0,0,1,1}, {0,0,0,1,1}});
+    int result = s.numDistinctIslands(a);
     
     system("pause");
     return 0;

@@ -28,5 +28,4 @@ private:
         if (col - 1 >= 0 && grid[row][col - 1] == '1') { dfs(grid, m, n, row, col - 1); }
         if (col + 1 < n && grid[row][col + 1] == '1') { dfs(grid, m, n, row, col + 1); }
     }
-
 };

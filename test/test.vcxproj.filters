@@ -206,5 +206,17 @@
     <ClInclude Include="numberOfWeakCharacters.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="closedIsland.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="numEnclaves.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="countSubIslands.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="numDistinctIslands.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

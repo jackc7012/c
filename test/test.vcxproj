@@ -152,8 +152,10 @@
     <ClInclude Include="carinfo.h" />
     <ClInclude Include="carPooling.h" />
     <ClInclude Include="checkInclusion.h" />
+    <ClInclude Include="closedIsland.h" />
     <ClInclude Include="combinationSum.h" />
     <ClInclude Include="corpFlightBookings.h" />
+    <ClInclude Include="countSubIslands.h" />
     <ClInclude Include="dailytemperatures.h" />
     <ClInclude Include="equalSubstring.h" />
     <ClInclude Include="fieldsum.h" />
@@ -183,6 +185,8 @@
     <ClInclude Include="numberOfSteps.h" />
     <ClInclude Include="numberOfWeakCharacters.h" />
     <ClInclude Include="numBusesToDestination.h" />
+    <ClInclude Include="numDistinctIslands.h" />
+    <ClInclude Include="numEnclaves.h" />
     <ClInclude Include="numIslands.h" />
     <ClInclude Include="openLock.h" />
     <ClInclude Include="permute.h" />
