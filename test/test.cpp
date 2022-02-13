@@ -48,7 +48,11 @@
 //#include "uncommonFromSentences.h"
 //#include "numberOfWeakCharacters.h"
 //#include "closedIsland.h"
-#include "numDistinctIslands.h"
+//#include "numDistinctIslands.h"
+//#include "simplifiedFractions.h"
+//#include "getMaximumGold.h"
+#include "findMinFibonacciNumbers.h"
+
 
 int main()
 {
@@ -60,8 +64,8 @@ int main()
     ////std::string aa = c.getDbName();
     //std::vector<std::vector<std::string>> result = c.selectDbInfo(sql);
     Solution s;
-    vector<vector<int>> a({{1,1,0,0,0}, {1,1,0,0,0}, {0,0,0,1,1}, {0,0,0,1,1}});
-    int result = s.numDistinctIslands(a);
+    vector<vector<int>> a({{1,0,7,0,0,0},{2,0,6,0,1,0},{3,5,6,7,4,2},{4,3,1,0,2,0},{3,0,5,0,20,0}});
+    int result = s.findMinFibonacciNumbers(19);
     
     system("pause");
     return 0;

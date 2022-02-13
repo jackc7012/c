@@ -160,8 +160,11 @@
     <ClInclude Include="equalSubstring.h" />
     <ClInclude Include="fieldsum.h" />
     <ClInclude Include="findMinArrowShots.h" />
+    <ClInclude Include="findMinFibonacciNumbers.h" />
     <ClInclude Include="findOrder.h" />
     <ClInclude Include="generateParenthesis.h" />
+    <ClInclude Include="getMaximumGold.h" />
+    <ClInclude Include="gridIllumination.h" />
     <ClInclude Include="increasingTriplet.h" />
     <ClInclude Include="isAdditiveNumber.h" />
     <ClInclude Include="isEscapePossible.h" />
@@ -199,6 +202,7 @@
     <ClInclude Include="reverseparent.h" />
     <ClInclude Include="reversePrefix.h" />
     <ClInclude Include="shortestBridge.h" />
+    <ClInclude Include="simplifiedFractions.h" />
     <ClInclude Include="slidingPuzzle.h" />
     <ClInclude Include="slowestKey.h" />
     <ClInclude Include="stackpop.h" />

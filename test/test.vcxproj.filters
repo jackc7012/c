@@ -218,5 +218,17 @@
     <ClInclude Include="numDistinctIslands.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="simplifiedFractions.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="getMaximumGold.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gridIllumination.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="findMinFibonacciNumbers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
