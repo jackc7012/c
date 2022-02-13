@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 1447
+// 1447 最简分数（中等）
 class Solution {
 public:
     vector<string> simplifiedFractions(int n)

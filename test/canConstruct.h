@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 383
+// 383 Êê½ðÐÅ£¨¼òµ¥£©
 class Solution {
 public:
     bool canConstruct(const string &ransomNote, const string &magazine)

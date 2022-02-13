@@ -1,7 +1,8 @@
 #pragma once
 #include "public.h"
 
-// 911
+// 911 在线选举（中等）
+// TODO
 class TopVotedCandidate {
 public:
     TopVotedCandidate(vector<int>& persons, vector<int>& times)

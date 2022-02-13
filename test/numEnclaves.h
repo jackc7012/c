@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 1020
+// 1020 飞地的数量（中等）
 class Solution {
 public:
     int numEnclaves(vector<vector<int>>& grid)

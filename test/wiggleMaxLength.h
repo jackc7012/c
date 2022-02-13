@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 376
+// 376 摆动序列（中等）
 class Solution {
 public:
     int wiggleMaxLength(const vector<int>& nums)

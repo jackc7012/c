@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 208
+// 208 实现Trie（中等）
 struct Tree {
     Tree *next[26] = {nullptr};
     bool isWord{false};

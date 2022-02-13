@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 306
+// 306 累加数（中等）
 class Solution {
 public:
     bool isAdditiveNumber(const string& num)

@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 45
+// 45 ÌøÔ¾ÓÎÏ·II£¨ÖĞµÈ£©
 class Solution {
 public:
     int jump(const vector<int>& nums)

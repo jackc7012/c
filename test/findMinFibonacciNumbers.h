@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 1414
+// 1414 和为 K 的最少斐波那契数字数目（中等）
 class Solution {
 public:
     int findMinFibonacciNumbers(int k)

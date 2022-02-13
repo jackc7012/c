@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 1219
+// 1219 黄金矿工（中等）
 class Solution {
 public:
     int getMaximumGold(vector<vector<int>>& grid)

@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 1036
+// 1036 Ã”¿Î¥Û√‘π¨£®¿ßƒ—£©
 // 25/30
 class Solution {
 public:

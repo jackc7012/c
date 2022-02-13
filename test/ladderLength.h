@@ -1,7 +1,8 @@
 #pragma once
 #include "public.h"
 
-// 127
+// 127 µ¥´Ê½ÓÁú£¨À§ÄÑ£©
+// 33/50
 class Solution {
 public:
     int ladderLength(const string &beginWord, const string &endWord, const vector<string>& wordList) {

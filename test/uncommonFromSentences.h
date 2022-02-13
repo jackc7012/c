@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 884
+// 884 两句话中的不常见单词（简单）
 class Solution {
 public:
     vector<string> uncommonFromSentences(string s1, string s2)

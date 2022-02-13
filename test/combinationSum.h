@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 39
+// 39 组合综合（中等）
 class Solution {
 public:
     vector<vector<int>> combinationSum(const vector<int>& candidates, int target) {

@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 52
+// 52N»ÊºóII£¨À§ÄÑ£©
 class Solution {
 public:
     int totalNQueens(int n) {

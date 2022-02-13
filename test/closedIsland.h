@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 1254
+// 1254 统计封闭岛屿的数目（中等）
 class Solution {
 public:
     int closedIsland(vector<vector<int>>& grid) {

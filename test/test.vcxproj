@@ -194,12 +194,10 @@
     <ClInclude Include="openLock.h" />
     <ClInclude Include="permute.h" />
     <ClInclude Include="permuteUnique.h" />
-    <ClInclude Include="postman.h" />
     <ClInclude Include="public.h" />
     <ClInclude Include="removeduplicate.h" />
     <ClInclude Include="replacetrie.h" />
     <ClInclude Include="restoreIP.h" />
-    <ClInclude Include="reverseparent.h" />
     <ClInclude Include="reversePrefix.h" />
     <ClInclude Include="shortestBridge.h" />
     <ClInclude Include="simplifiedFractions.h" />

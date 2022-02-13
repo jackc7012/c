@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 42
+// 42 ½ÓÓêË®£¨À§ÄÑ£©
 class Solution {
 public:
     int trap(const vector<int>& height) {

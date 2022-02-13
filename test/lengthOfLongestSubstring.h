@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 3
+// 3 无重复字串的最长子串（中等）
 class Solution {
 public:
     int lengthOfLongestSubstring(const string &s)

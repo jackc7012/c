@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 934
+// 934 最短的桥（中等）
 class Solution {
 public:
     int shortestBridge(const vector<vector<int>>& grid) {

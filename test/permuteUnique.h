@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 47
+// 47 全排列II（中等）
 class Solution {
 public:
     vector<vector<int>> permuteUnique(const vector<int>& nums) {

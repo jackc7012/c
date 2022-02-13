@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 752
+// 752 打开转盘锁（中等）
 class Solution {
 public:
     int openLock(const vector<string>& deadends, string target) {

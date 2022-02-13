@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 200
+// 200 岛屿数量（中等）
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {

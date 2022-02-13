@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 648
+// 648 µ¥´ÊÌæ»»£¨ÖÐµÈ£©
 struct Tree {
     Tree* next[26] = { nullptr };
     bool isWord{ false };

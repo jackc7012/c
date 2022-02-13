@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 1208
+// 1208 尽可能使字符串相等（中等）
 class Solution {
 public:
     int equalSubstring(string s, string t, int maxCost)

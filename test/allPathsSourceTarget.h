@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 797
+// 797 所有可能的路径（中等）
 class Solution {
 public:
     vector<vector<int>> allPathsSourceTarget(const vector<vector<int>>& graph) {

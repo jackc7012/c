@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 1996
+// 1996 游戏中弱角色的数量（中等）
 class Solution {
 public:
     int numberOfWeakCharacters(vector<vector<int>>& properties)

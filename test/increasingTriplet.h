@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 334
+// 334 递增的三元子序列（中等）
 class Solution {
 public:
     bool increasingTriplet(const vector<int>& nums)

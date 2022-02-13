@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 1004
+// 1004 最大连续1的个数III（中等）
 class Solution {
 public:
     int longestOnes(const vector<int>& nums, int k)

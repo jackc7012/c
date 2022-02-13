@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 22
+// 22 括号生成（中等）
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {

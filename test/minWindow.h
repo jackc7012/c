@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 76
+// 76 最小覆盖子串（困难）
 class Solution {
 public:
     string minWindow(const string &s, const string &t) {

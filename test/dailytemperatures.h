@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 739
+// 739 每日温度（中等）
 class Solution {
 public:
     vector<int> dailyTemperatures(const vector<int>& T) {

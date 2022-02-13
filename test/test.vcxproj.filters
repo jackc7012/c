@@ -41,9 +41,6 @@
     <ClInclude Include="makegood.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="reverseparent.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="public.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -114,9 +111,6 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="subarraySum.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="postman.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="findOrder.h">

@@ -1,7 +1,7 @@
 #pragma once
 #include "public.h"
 
-// 621
+// 621 任务调度器（中等）
 class Solution {
 public:
     int leastInterval(const vector<char>& tasks, int n)
